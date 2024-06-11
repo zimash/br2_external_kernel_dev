@@ -8,7 +8,7 @@ Using
 Clone mainstream Buildroot, current repo and make with external tree defconfig. ::
 
   $ git clone https://git.busybox.net/buildroot
-  $ git clone https://github.com/zimash/br2_external_kernel-dev
+  $ git clone https://github.com/zimash/br2_external_kernel_dev
   $ cd buildroot
   $ make BR2_EXTERNAL=../br2_external_kernel_dev qemu_x86_64_dev_defconfig
   $ make menuconfig # If we want to change Buildroot options
