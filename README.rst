@@ -1,3 +1,5 @@
+ .. To view this document in the terminal, you must use "rst2man README.rst | man -l -".
+
 ==========
 README.rst
 ==========
